@@ -1,0 +1,26 @@
+﻿<Window x:Class="ProjekatV2.ProfesorFilter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjekatV2"
+        mc:Ignorable="d"
+        Title="Biranje profesora za sefa" Height="280" Width="400">
+    <Grid>
+        <DataGrid ItemsSource="{Binding Path=Profesors, UpdateSourceTrigger=PropertyChanged}"
+                              SelectedItem="{Binding Path=SelectedProfesor, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" IsReadOnly="True" HorizontalScrollBarVisibility="Disabled" Height="180" Width="350">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Width="87.5" Binding="{Binding Pime}" Header="Ime"/>
+                <DataGridTextColumn  Width="87.5" Binding="{Binding Pprezime}" Header="Prezime" />
+                <DataGridTextColumn Width="130" Binding="{Binding Pzvanje}" Header="Zvanje"/>
+                <DataGridTextColumn Width="70" Binding="{Binding Pstaz}" Header="Staz"/>
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel FlowDirection="LeftToRight"  Orientation="Horizontal" Margin="146,209,117,-1" >
+            <Button Content="Potvrdi" Height="20" Width="54" Click="Button_Click_1"></Button>
+            <Button Content="Odustani" Height="20" Width="54" Margin=" 10 0 0 0" Click="Button_Click" ></Button>
+        </StackPanel>
+    </Grid>
+</Window>

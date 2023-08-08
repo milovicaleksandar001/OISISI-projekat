@@ -1,0 +1,48 @@
+﻿<Window x:Class="ProjekatV2.UnosOcene"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjekatV2"
+        mc:Ignorable="d"
+        Title="UnosOcene" Height="450" Width="672">
+    <Grid Margin="0,0,1,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="407"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0" Margin="20,5,10,5" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Height="25">Sifra</Label>
+            <Label Grid.Row="1" Grid.Column="0" Height="25">Naziv</Label>
+            <Label Grid.Row="2" Grid.Column="0" Height="25">Ocena</Label>
+            <Label Grid.Row="3" Grid.Column="0" Height="25">Datum</Label>
+            <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Path=Sifra, UpdateSourceTrigger=PropertyChanged}"
+                     Height="25"></TextBox>
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Path=Naziv, UpdateSourceTrigger=PropertyChanged}"
+                     Height="25"></TextBox>
+            <ComboBox  Grid.Row="2" Height="25" Grid.Column="1" ItemsSource="{Binding Path=OcenaNaPredmetu}" SelectedItem="{Binding Path=SelectedOcena}"></ComboBox>
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Path=DatumPolaganja, UpdateSourceTrigger=PropertyChanged}"
+                     Height="25"></TextBox>
+
+        </Grid>
+        <WrapPanel Grid.Row="1"  FlowDirection="LeftToRight" HorizontalAlignment="Left" Width="250" Height="50" VerticalAlignment="Center" Grid.Column="1" Margin="140,0,0,0" >
+            <Button Content=" Potvrdi " IsCancel="True" HorizontalAlignment="Center" VerticalAlignment="Center" Width="60" Height="30" Margin="25, 5, 25, 5" Click="Potvrdi"/>
+            <Button Content="Odustani " IsDefault="True" HorizontalAlignment="Center" VerticalAlignment="Center" Width="60" Height="30" Margin="20, 5, 20, 5" Click="Odustani"/>
+        </WrapPanel>
+    </Grid>
+</Window>

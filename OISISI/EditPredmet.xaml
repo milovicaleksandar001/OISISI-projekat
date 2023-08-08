@@ -1,0 +1,74 @@
+﻿<Window x:Class="ProjekatV2.EditPredmet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjekatV2"
+        mc:Ignorable="d"
+        Title="Izmena predmeta" Height="500" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="436*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="325"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0" Margin="30,30,30,48" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="139*"></ColumnDefinition>
+                <ColumnDefinition Width="231*"/>
+                <ColumnDefinition Width="370*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="26">Sifra predmeta*</Label>
+            <Label Grid.Column="0" Grid.ColumnSpan="2" Margin="0,71,0,0" Grid.RowSpan="2" Height="26">Naziv predmeta*</Label>
+            <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,71,0,71" Grid.RowSpan="3" Height="26">Godina Studija*</Label>
+            <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,0,71" Grid.RowSpan="2" Height="26">Semestar*</Label>
+            <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Height="26" >ESP bodovi*</Label>
+            <Label Grid.Row="5" Grid.Column="0" Height="26" Grid.ColumnSpan="2" >Profesor*</Label>
+
+            <TextBox Grid.Row="0" Grid.Column="2" Text="{Binding Path=Sifra, UpdateSourceTrigger=PropertyChanged}" Height="21" Margin="0,19,0,19"></TextBox>
+            <TextBox Grid.Row="1" Grid.Column="2" Text="{Binding Path=Naziv, UpdateSourceTrigger=PropertyChanged}" Height="21" Margin="0,19,0,19"></TextBox>
+            <ComboBox  Grid.Row="2" Grid.Column="2" ItemsSource="{Binding Path=GodStudija}" SelectedItem="{Binding Path=SelectedGodStudija}"  Margin="0,19,0,19"></ComboBox>
+            <ComboBox  Grid.Row="3" Grid.Column="2" ItemsSource="{Binding Path=Semestar}" SelectedItem="{Binding Path=SelectedSemestar}"  Margin="0,19,0,19"></ComboBox>
+            <TextBox Grid.Row="4" Text="{Binding Path=ESPBodovi, UpdateSourceTrigger=PropertyChanged}" Height="21"  Grid.Column="2"/>
+
+
+            <TextBlock Name="TBlockPIme" Grid.Column="2" Grid.Row="5"  Margin="6,10,82,20">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="{}{0} {1}">
+                            <Binding Path="SelectedPredmet.predmetniProfesor.Pime" />
+                            <Binding Path="SelectedPredmet.predmetniProfesor.Pprezime" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+            
+
+            <StackPanel Grid.Row="5" Grid.Column="2"   Orientation="Horizontal" Margin="209,9,-13,15">
+                <Button  Height="30" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"  Margin="82 0 0 0" Click="Button_Click_DodajProf">+</Button>
+                <Button Height="30" Width="30" Margin="10 0 0 0" Click="Button_Click_ObrisiProf">-</Button>
+            </StackPanel>
+
+        </Grid>
+
+        <WrapPanel Grid.Row="1"  FlowDirection="LeftToRight" Grid.Column="1" Margin="203,81,243,0" Height="52" VerticalAlignment="Top" >
+            <Button Content=" Potvrdi " IsCancel="True" HorizontalAlignment="Center" VerticalAlignment="Center"
+              Click="Potvrdi" Height="40" Width="95" Margin="0,0,0,0"/>
+            <Button Content="Odustani " IsDefault="True" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10, 5, 20, 5"
+               Click="Odustani" Height="40" Width="95" />
+        </WrapPanel>
+
+
+    </Grid>
+</Window>

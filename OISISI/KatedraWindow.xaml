@@ -1,0 +1,27 @@
+﻿<Window x:Class="ProjekatV2.KatedraWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjekatV2"
+        mc:Ignorable="d"
+        Title="Katedra" Height="500" Width="850">
+    <Grid>
+
+        <DataGrid Width="700" Height="350" Margin="51,56,49,28" AutoGenerateColumns="False" IsReadOnly="True" HorizontalScrollBarVisibility="Disabled"
+                  ItemsSource="{Binding Path=katedras, UpdateSourceTrigger=PropertyChanged}"
+                  SelectedItem="{Binding Path=SelectedKatedra, UpdateSourceTrigger=PropertyChanged}"
+                  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Sifra katedre" Width="175" Binding="{Binding Ksifra}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Naziv katedre" Width="175" Binding="{Binding Knaziv}" ></DataGridTextColumn>
+                <DataGridTextColumn Header="Ime sefa" Width="175" Binding="{Binding sef.Pime}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Prezime sefa" Width="175" Binding="{Binding sef.Pprezime }"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <Button Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Postavi sefa" Margin="378,20,0,0" Click="Button_Click"/>
+
+    </Grid>
+</Window>

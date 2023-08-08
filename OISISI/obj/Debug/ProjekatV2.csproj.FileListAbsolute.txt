@@ -1,0 +1,438 @@
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.exe.config
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\MainWindow.g.cs
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\App.g.cs
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.lref
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\MainWindow.baml
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.g.resources
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.Properties.Resources.resources
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\CreateStudent.g.cs
+F:\snimanje\3.Oisisi\Projekat_v2\ProjekatV2\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2\Projekat_v2\ProjekatV2\obj\Debug\CreateStudent.baml
+F:\snimanje\3.Oisisi\ProjekatV2\bin\Debug\ProjekatV2.exe.config
+F:\snimanje\3.Oisisi\ProjekatV2\bin\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\ProjekatV2\bin\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreateStudent.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\MainWindow.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\App.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.cache
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.lref
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreateStudent.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\MainWindow.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.g.resources
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.Properties.Resources.resources
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditStudent.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditStudent.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreatePredmet.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreatePredmet.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditPredmet.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditPredmet.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreateProfesor.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\CreateProfesor.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditProfesor.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\EditProfesor.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\About.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\About.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\About.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2\ProjekatV2\obj\Debug\PredmetSpojProfesor.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojProfesor.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojProfesor.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojStudentNepolozeni.baml
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+F:\snimanje\3.Oisisi\ProjekatV2\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\About.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2Miljan\ProjekatV2\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\OisisiV2Aleksandar\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\oisisiV2Poslednje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.baml
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.g.cs
+F:\snimanje\3.Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\miljan poslednje poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\miljan_poslednje_poslao\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\zaSlanje\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe.config
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\bin\Debug\ProjekatV2.pdb
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\About.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.cache
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2_MarkupCompile.lref
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\About.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreatePredmet.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateProfesor.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\CreateStudent.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditPredmet.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditProfesor.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\EditStudent.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\KatedraWindow.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojProfesor.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentNepolozeni.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\PredmetSpojStudentPolozeni.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorFilter.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProfesorSpojPredmet.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\UnosOcene.baml
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.g.resources
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.Properties.Resources.resources
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.exe
+C:\Users\aleks\Desktop\Odbrana_za_Oisisi\oisisi-2022-group-5-team-8\obj\Debug\ProjekatV2.pdb
